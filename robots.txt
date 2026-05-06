@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mohamedaly837.github.io/Smart-Egypt-Travel-Flow/sitemap.xml
